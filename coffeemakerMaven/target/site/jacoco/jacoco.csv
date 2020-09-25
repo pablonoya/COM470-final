@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+coffeemakerMaven,com.pablonoya.coffeemakermaven.exceptions,InventoryException,0,4,0,0,0,2,0,1,0,1
+coffeemakerMaven,com.pablonoya.coffeemakermaven.exceptions,RecipeException,4,0,0,0,2,0,1,0,1,0
+coffeemakerMaven,com.pablonoya.coffeemakermaven,Inventory,39,219,7,19,11,78,7,22,0,16
+coffeemakerMaven,com.pablonoya.coffeemakermaven,Main,517,0,46,0,149,0,34,0,11,0
+coffeemakerMaven,com.pablonoya.coffeemakermaven,CoffeeMaker,0,102,0,10,0,25,0,13,0,8
+coffeemakerMaven,com.pablonoya.coffeemakermaven,RecipeBook,29,94,11,13,7,24,9,8,0,5
+coffeemakerMaven,com.pablonoya.coffeemakermaven,Recipe,107,117,18,8,30,50,15,14,2,14
